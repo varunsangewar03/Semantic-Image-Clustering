@@ -9,14 +9,14 @@ This repository contains examples and implementations of semantic image clusteri
 5) scikit-learn
 6) OpenCV (if needed for image preprocessing)
    
-**Image Clustering 1:**
+**Image Clustering Keras:**
 This folder contains a Keras example of semantic image clustering using the SCAN (Self-labeling via Contrastive Neighbor) algorithm. The example demonstrates how to perform unsupervised clustering on a standard image dataset.
 -Navigate to the Image Clustering Keras file.
 -Follow the instructions in the README.md file within the folder to run the SCAN algorithm example using Keras.
 
-**Image Clustering Own Dataset:**
+**Image Clustering using Own Dataset:**
 In this folder, we apply the SCAN algorithm to a different dataset. This example shows how to adapt the SCAN algorithm to new datasets, providing insights into preprocessing, training, and evaluating the clustering performance on custom data.
--Navigate to the Image Clustering Own Dataset folder.
+-Navigate to the Image Clustering using Own Dataset folder.
 -Follow the steps in the README.md file to preprocess your dataset and run the clustering algorithm.
 
 **FinalSIC:**

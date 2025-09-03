@@ -11,7 +11,7 @@ This repository contains examples and implementations of semantic image clusteri
    
 **Image Clustering 1:**
 This folder contains a Keras example of semantic image clustering using the SCAN (Self-labeling via Contrastive Neighbor) algorithm. The example demonstrates how to perform unsupervised clustering on a standard image dataset.
--Navigate to the Image Clustering 1 folder.
+-Navigate to the Image Clustering Keras file.
 -Follow the instructions in the README.md file within the folder to run the SCAN algorithm example using Keras.
 
 **Image Clustering Own Dataset:**
